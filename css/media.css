@@ -1,0 +1,11 @@
+@media (max-width: 992px) {
+    .dropdown-menu {
+        display: none !important;
+        visibility: hidden;
+    }
+}
+@media(max-width:411px) {
+    .navbar .navbar-toggler{
+        display: none;
+    }
+}

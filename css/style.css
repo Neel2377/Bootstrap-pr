@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.height{
+    height: 500px;
+}
+
+.flex{
+    flex-wrap: wrap;
+}
+.fa-brands{
+    font-size: 35px;
+    letter-spacing: 1.5px;
+    color: #723db3;
+}
+.nav-item{
+    letter-spacing: 1.5px;   
+    
+}
+.navbar-nav{
+    margin-inline-start: 50%;
+}
+.dropdown-item:hover{
+    background: rgb(143, 143, 248);
+    
+}
