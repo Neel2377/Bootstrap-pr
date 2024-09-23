@@ -3,11 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 .height{
     height: 500px;
 }
-
 .flex{
     flex-wrap: wrap;
 }
@@ -16,14 +14,18 @@
     letter-spacing: 1.5px;
     color: #723db3;
 }
+.fa-solid{
+    color: #723db3;
+}
+.navbar-toggler{
+    border:2px solid #723db3;
+}
 .nav-item{
-    letter-spacing: 1.5px;   
-    
+    letter-spacing: 1.5px;
 }
 .navbar-nav{
     margin-inline-start: 50%;
 }
-.dropdown-item:hover{
-    background: rgb(143, 143, 248);
-    
+.dropdown-menu .nav-item:hover{
+    background: #6f45a2;   
 }
